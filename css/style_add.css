@@ -117,8 +117,8 @@
 @media screen and (max-width: 475px) {
 	#videoNone		{width: auto; left: -100%; right: -100%;}
 
-	.roman			{font-size: 42px;}
-	.i-bulid		{font-size: 42px;}
+	.roman			{font-size: 38px;}
+	.i-bulid		{font-size: 38px;}
 	.headline .headline-btn	{width: 100%;}
 
 	.img-combo		{width: 250px; height: 250px;}
@@ -140,7 +140,7 @@
 	.box-projects1	{width: 100%;}
 	.vs-cod-portfolio3 p	{font-size: 12px;}
 
-	.text2-contacts	{font-size: 42px;}
+	.text2-contacts	{font-size: 36px;}
 }
 
 
