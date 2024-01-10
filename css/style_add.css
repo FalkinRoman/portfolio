@@ -114,7 +114,7 @@
 
 	.text3-contacts	{width: 100%;}
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 475px) {
 	#videoNone		{width: auto; left: -100%; right: -100%;}
 
 	.roman			{font-size: 42px;}
